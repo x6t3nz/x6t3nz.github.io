@@ -5,6 +5,26 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://x6t3nz.github.io",
+    "hubpress": "https://x6t3nz.github.io",
+    "theme": "//x6t3nz.github.io/themes/casper",
+    "images": "https://x6t3nz.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
