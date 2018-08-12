@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://x6t3nz.github.io",
-    "hubpress": "https://x6t3nz.github.io",
-    "theme": "//x6t3nz.github.io/themes/casper",
-    "images": "https://x6t3nz.github.io/images"
+    "site": "http://x6t3nz.ga",
+    "hubpress": "http://x6t3nz.ga",
+    "theme": "//x6t3nz.ga/themes/casper",
+    "images": "http://x6t3nz.ga/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
