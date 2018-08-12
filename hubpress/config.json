@@ -30,9 +30,9 @@
   },
   "site": {
     "title": "x6t3nz",
-    "description": "",
+    "description": "x6t3nz",
     "logo": "",
-    "cover": "",
+    "cover": "https://raw.githubusercontent.com/x6t3nz/x6t3nz.github.io/master/images/172445.jpg",
     "delay": "",
     "postsPerPage": "",
     "blogPath": "",
@@ -53,5 +53,10 @@
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "Steam",
+      "url": "http://steamcommunity.com/id/ferxelic/"
+    }
+  ]
 }
